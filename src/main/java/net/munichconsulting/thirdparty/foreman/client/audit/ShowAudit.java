@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.AuditWrapper;
 /**
  * Show an audit. (url: GET /api/audits/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ShowAudit implements ForemanCommand<AuditWrapper> {

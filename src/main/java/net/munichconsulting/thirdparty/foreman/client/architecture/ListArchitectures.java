@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.ArchitectureWrapper;
 /**
  * List all architectures. (url: GET /api/architectures).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ListArchitectures implements ForemanCommand<ArchitectureWrapper[]> {

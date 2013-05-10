@@ -11,7 +11,7 @@ import net.munichconsulting.thirdparty.foreman.model.EnvironmentWrapper;
 /**
  * Update an environment. (url: PUT /api/environments/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class UpdateEnvironment implements ForemanCommand<EnvironmentWrapper> {

@@ -11,7 +11,7 @@ import net.munichconsulting.thirdparty.foreman.model.ParameterWrapper;
  * Update an hostgroup's parameter. (url: PUT
  * /api/hostgroups/:id/parameters/:paramId).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class UpdateHostGroupParameter implements

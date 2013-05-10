@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.EnvironmentWrapper;
 /**
  * Delete an environment. (url: DELETE /api/environments/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class DeleteEnvironment implements ForemanCommand<EnvironmentWrapper> {

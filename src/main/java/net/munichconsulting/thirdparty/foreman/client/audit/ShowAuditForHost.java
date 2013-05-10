@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.AuditWrapper;
 /**
  * Show an audit for a given host. (url: GET /api/hosts/:id/audits).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ShowAuditForHost implements ForemanCommand<AuditWrapper> {

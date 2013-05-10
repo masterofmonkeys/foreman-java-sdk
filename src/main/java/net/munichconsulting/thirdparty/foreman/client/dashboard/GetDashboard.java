@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.Dashboard;
 /**
  * Get dashboard results. (url: GET /api/dashboard).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class GetDashboard implements ForemanCommand<Dashboard> {

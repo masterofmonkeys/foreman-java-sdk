@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.HostWrapper;
 /**
  * Show an host. (url: GET /api/hosts/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ShowHost implements ForemanCommand<HostWrapper> {

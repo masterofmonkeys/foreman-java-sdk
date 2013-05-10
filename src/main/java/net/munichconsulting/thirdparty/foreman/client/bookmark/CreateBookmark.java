@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.BookmarkWrapper;
 /**
  * Creates a bookmark. (url: POST /api/bookmarks).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class CreateBookmark implements ForemanCommand<BookmarkWrapper> {

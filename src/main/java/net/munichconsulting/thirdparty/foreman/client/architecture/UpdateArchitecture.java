@@ -11,7 +11,7 @@ import net.munichconsulting.thirdparty.foreman.model.ArchitectureWrapper;
 /**
  * Update an architecture. (url: PUT /api/architectures/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class UpdateArchitecture implements ForemanCommand<ArchitectureWrapper> {

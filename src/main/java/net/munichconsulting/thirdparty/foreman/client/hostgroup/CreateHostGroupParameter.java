@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.ParameterWrapper;
 /**
  * Creates an hostgroup. (url: POST /api/hostgroups/:id/parameters/).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class CreateHostGroupParameter implements ForemanCommand<ParameterWrapper> {

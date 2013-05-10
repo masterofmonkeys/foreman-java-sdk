@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.HostGroupWrapper;
 /**
  * Show an hostgroup. (url: GET /api/hostgroups/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ShowHostGroup implements ForemanCommand<HostGroupWrapper> {

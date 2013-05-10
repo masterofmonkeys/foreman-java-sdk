@@ -60,7 +60,6 @@ public class Audit implements Serializable {
 
 	/**
 	 * Foreman's AuditChanges definition.
-	 * @author  intuiko
 	 * @version 1.0.0
 	 */
 	public static class AuditedChanges {

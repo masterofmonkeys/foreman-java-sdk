@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.EnvironmentWrapper;
 /**
  * List all environments. (url: GET /api/environments).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ListEnvironments implements ForemanCommand<EnvironmentWrapper[]> {

@@ -11,7 +11,7 @@ import net.munichconsulting.thirdparty.foreman.model.HostGroupWrapper;
 /**
  * Update an hostgroup. (url: PUT /api/hostgroups/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class UpdateHostGroup implements ForemanCommand<HostGroupWrapper> {

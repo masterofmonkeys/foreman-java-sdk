@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.BookmarkWrapper;
 /**
  * Show a bookmark. (url: GET /api/bookmarks/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ShowBookmark implements ForemanCommand<BookmarkWrapper> {

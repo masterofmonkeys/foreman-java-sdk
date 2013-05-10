@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.EnvironmentWrapper;
 /**
  * Creates an environment. (url: POST /api/environments).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class CreateEnvironment implements ForemanCommand<EnvironmentWrapper> {

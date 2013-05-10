@@ -11,7 +11,7 @@ import net.munichconsulting.thirdparty.foreman.model.HostWrapper;
 /**
  * Update an host. (url: PUT /api/hosts/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class UpdateHost implements ForemanCommand<HostWrapper> {

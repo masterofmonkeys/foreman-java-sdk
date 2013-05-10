@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.BookmarkWrapper;
 /**
  * Delete a bookmark. (url: DELETE /api/bookmarks/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class DeleteBookmark implements ForemanCommand<BookmarkWrapper> {

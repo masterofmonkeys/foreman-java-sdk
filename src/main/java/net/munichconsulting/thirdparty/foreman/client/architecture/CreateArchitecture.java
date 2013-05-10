@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.ArchitectureWrapper;
 /**
  * Creates an architecture. (url: POST /api/architectures).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class CreateArchitecture implements ForemanCommand<ArchitectureWrapper> {

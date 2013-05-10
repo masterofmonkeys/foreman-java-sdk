@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.ParameterWrapper;
 /**
  * Show an hostgroup's parameter. (url: GET /api/hostgroups/:id/parameters/:paramId).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ShowHostGroupParameter implements ForemanCommand<ParameterWrapper> {

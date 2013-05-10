@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.HostGroupWrapper;
 /**
  * Delete an hostgroup. (url: DELETE /api/hostgroups/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class DeleteHostGroup implements ForemanCommand<HostGroupWrapper> {

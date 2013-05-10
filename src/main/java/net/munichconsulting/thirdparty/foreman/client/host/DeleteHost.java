@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.HostWrapper;
 /**
  * Delete an host. (url: DELETE /api/hosts/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class DeleteHost implements ForemanCommand<HostWrapper> {

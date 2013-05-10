@@ -9,7 +9,7 @@ import net.munichconsulting.thirdparty.foreman.model.ArchitectureWrapper;
 /**
  * Show an architecture. (url: GET /api/architectures/:id).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ShowArchitecture implements ForemanCommand<ArchitectureWrapper> {

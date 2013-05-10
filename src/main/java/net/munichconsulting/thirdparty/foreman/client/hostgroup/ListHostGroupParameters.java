@@ -10,7 +10,7 @@ import net.munichconsulting.thirdparty.foreman.model.ParameterWrapper;
  * List all parameters for a given hostgroup. (url: GET
  * /api/hostgroups/:id/parameters).
  * 
- * @author intuiko
+ * @author  (mc) munich consulting.
  * @version 1.0.0
  */
 public class ListHostGroupParameters implements
