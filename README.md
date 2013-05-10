@@ -1,20 +1,32 @@
-h1. Foreman Java SDK v1.0
+Foreman Java SDK v1.0
+=============
 
-h2. Maven
+Maven
+-------------
 
-|groupId|artifactId|version|
-|net.munichconsulting.thirdparty|foreman|1.0.0-SNAPSHOT|
+<code>
+	
+	<dependency>
+		<groupId>net.munichconsulting.thirdparty</groupId>
+		<artifactId>foreman</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+	</dependency>
+	
+</code>
 
-h3. Maven Repositories
+* Maven Repositories *
 
 https://maven.java.net/content/repositories/snapshots
 https://raw.github.com/muconsulting/maven/master/snapshots
 
-h1. Available artifacts
+Available artifacts
+=============
 
-h2. Foreman Service
+Foreman Service
+-------------
 
 <pre>
+
    ForemanClient client = new ForemanClient(FOREMAN_API_URL, "username", "password");
    Dashboard dashboard = client.execute(new GetDashboard());
    
@@ -23,10 +35,12 @@ h2. Foreman Service
        System.out.println(groups[i].getHostGroup().getLabel());
  	   System.out.println(groups[i].getHostGroup().getParameters());	
    }   
+
 </pre>
 
 
-h1. License
+License
+=============
 
 <pre>
 This software is licensed under the Apache 2 license, quoted below.
