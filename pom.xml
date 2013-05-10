@@ -25,6 +25,40 @@
 	
 	</properties>
 	
+	<licenses>
+		<license>
+			<name>Apache2</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+
+	<inceptionYear>2013</inceptionYear>
+
+	<developers>
+		<developer>
+			<id>muconsulting</id>
+			<name>Sylvain Gibier</name>
+			<email>sylvain@munichconsulting.de</email>
+			<timezone>+1</timezone>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:http://github.com/muconsulting/foreman-java-sdk.git</connection>
+		<developerConnection>scm:http://github.com/muconsulting/foreman-java-sdk.git</developerConnection>
+		<url>http://github.com/muconsulting/foreman-java-sdk.git</url>
+	</scm>
+
+	<distributionManagement>
+		<repository>
+			<id>releases</id>
+			<url>https://github.com/muconsulting/maven/raw/master/releases</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<url>https://github.com/muconsulting/maven/raw/master/snapshots</url>
+		</snapshotRepository>
+	</distributionManagement>	
 	
 	<dependencies>
 		<dependency>
